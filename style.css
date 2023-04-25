@@ -1,0 +1,36 @@
+
+.calculator
+{
+    padding: 10px;
+    background-color: #135999;
+	border: solid black 3px;
+    height: 400px;
+    width: 400px;
+}
+
+.display-box
+{
+    background-color: #daebfa;
+	color: black;
+    border: solid black 2px;
+    width: 98%;
+    height: 20px;
+}
+
+.number
+{
+    background-color: #3c9ff8;
+    color: white;
+    border: solid black 2px;
+    width: 24%;
+    height: 55%;
+}
+
+.ravno
+{
+    background-color: #5297d5;
+    color: white;
+	border: solid black 2px;
+    width: 100%;
+	height: 60%;
+}
